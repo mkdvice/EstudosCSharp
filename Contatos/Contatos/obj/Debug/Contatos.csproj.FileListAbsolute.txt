@@ -1,0 +1,9 @@
+C:\Users\mkdvi\source\repos\Contatos\Contatos\bin\Debug\Contatos.exe
+C:\Users\mkdvi\source\repos\Contatos\Contatos\bin\Debug\Contatos.pdb
+C:\Users\mkdvi\source\repos\Contatos\Contatos\obj\Debug\Contatos.csprojResolveAssemblyReference.cache
+C:\Users\mkdvi\source\repos\Contatos\Contatos\obj\Debug\Contatos.Form1.resources
+C:\Users\mkdvi\source\repos\Contatos\Contatos\obj\Debug\Contatos.Properties.Resources.resources
+C:\Users\mkdvi\source\repos\Contatos\Contatos\obj\Debug\Contatos.csproj.GenerateResource.Cache
+C:\Users\mkdvi\source\repos\Contatos\Contatos\obj\Debug\Contatos.csproj.CoreCompileInputs.cache
+C:\Users\mkdvi\source\repos\Contatos\Contatos\obj\Debug\Contatos.exe
+C:\Users\mkdvi\source\repos\Contatos\Contatos\obj\Debug\Contatos.pdb
